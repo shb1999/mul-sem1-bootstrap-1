@@ -1,3 +1,6 @@
-/*
- * Write your own styles in this file
- */
+.container [class^="col"] {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgb(255,0,0);
+    border: 1px solid rgba(0, 0, 0, 0.3);
+}
